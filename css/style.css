@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+}
+
+/* Simple Styling applied to the h tags for some nicer aesthetics */
+h1, h2, h3{
+    border: 3px solid black;
+    border-radius: 15px;
+    width: 40vw;
+    background-color: cornsilk;
+    text-align: center;
+}
